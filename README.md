@@ -1,17 +1,6 @@
-<div align="center">
-
-<a href="https://capsule-render.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=230&section=header&text=Debangshini%20Bhattacharjee&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20%26%20Data%20Science&descAlignY=57&descSize=17" alt="Portfolio banner for Debangshini Bhattacharjee" width="100%" /></a>
-
-[About](#about) &nbsp;·&nbsp; [Skills](#technical-toolkit) &nbsp;·&nbsp; [Recognition](#a-milestone-worth-celebrating) &nbsp;·&nbsp; [GitHub Activity](#github-at-a-glance)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshini-bhattacharjee-20039b297)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/debangshini/)
-![Profile views](https://komarev.com/ghpvc/?username=debtrinar&style=flat-square&color=0F766E&label=PROFILE+VIEWS)
-
-</div>
+# Debangshini Bhattacharjee
 
 ---
-
 
 ## About
 
@@ -101,5 +90,7 @@ flowchart LR
   <i>“The general who wins a battle makes many calculations in his temple ere the battle is fought.”</i><br />— Sun Tzu, <i>The Art of War</i>, Chapter 1
 </div>
 
-![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0F172A&height=110&section=footer)
+
+
+
 
