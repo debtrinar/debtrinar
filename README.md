@@ -1,5 +1,9 @@
 # Debangshini Bhattacharjee
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=640&height=48&lines=Computer+Science+Undergraduate;Exploring+AI%2C+Machine+Learning+%26+Data+Science;Learning+by+Building+and+Collaborating" alt="Animated text: Computer Science undergraduate, exploring AI and data science" /></a>
+</div>
+
 ---
 
 ## About
@@ -12,11 +16,26 @@ I’m pursuing a B.Tech in Computer Science at Sharda University. I’m interest
 | **Data science** | Strengthening data handling and analytical problem solving |
 | **Software development** | Building reliable web, mobile, and backend foundations |
 
-**Open to:** internships, collaboration, and early-career opportunities.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📡 Current status</strong><br />Open to internships and early-career opportunities
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧭 Current focus</strong><br />Machine learning · Computer vision · Data science
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>⚙️ Core stack</strong><br />Python · React · FastAPI · Flask · SQL · Git/GitHub
+    </td>
+  </tr>
+</table>
 
 ## Technical toolkit
 
-### Languages & application development
+<details>
+<summary><strong>💻 Languages & application development</strong></summary>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -33,6 +52,8 @@ I’m pursuing a B.Tech in Computer Science at Sharda University. I’m interest
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
+</details>
+
 ### AI, machine learning & data science
 
 - **Machine learning:** supervised learning, classification, Random Forest, model training
@@ -40,10 +61,12 @@ I’m pursuing a B.Tech in Computer Science at Sharda University. I’m interest
 - **AI:** generative AI tools, prompt engineering, AI-powered application development
 - **Data:** data handling, SQL, MySQL, data-driven problem solving, database fundamentals
 
-### Tools & foundations
+<details>
+<summary><strong>🧩 Tools & foundations</strong></summary>
 
 `Git` · `GitHub` · `VS Code` · `Supabase` · `DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Testing`
 
+</details>
 
 ## How my interests connect
 
@@ -70,6 +93,7 @@ flowchart LR
       A proud milestone in my learning and building journey.
     </td>
   </tr>
+  
 </table>
 
 ## GitHub at a glance
@@ -89,6 +113,11 @@ flowchart LR
 <div align="center">
   <i>“The general who wins a battle makes many calculations in his temple ere the battle is fought.”</i><br />— Sun Tzu, <i>The Art of War</i>, Chapter 1
 </div>
+
+
+
+
+
 
 
 
