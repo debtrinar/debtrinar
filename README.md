@@ -1,8 +1,18 @@
-# Debangshini Bhattacharjee
+<div align="center">
 
----
+<h1 align="center">Debangshini Bhattacharjee</h1>
 
-## About
+<p align="center"><strong>Computer Science Undergraduate</strong> &nbsp;·&nbsp; AI & Data Science</p>
+
+[About](#about) &nbsp;·&nbsp; [Skills](#technical-toolkit) &nbsp;·&nbsp; [Recognition](#a-milestone-worth-celebrating) &nbsp;·&nbsp; [GitHub Activity](#github-at-a-glance)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshini-bhattacharjee-20039b297)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/debangshini/)
+![Profile views](https://komarev.com/ghpvc/?username=debtrinar&style=flat-square&color=0F766E&label=PROFILE+VIEWS)
+
+</div>
+
+---## About
 
 I’m pursuing a B.Tech in Computer Science at Sharda University. I’m interested in building a strong foundation across software engineering, machine learning, and data science, and in applying these skills to practical problems. I enjoy learning new technologies, collaborating with others, and steadily improving through hands-on work.
 
@@ -89,6 +99,7 @@ flowchart LR
 <div align="center">
   <i>“The general who wins a battle makes many calculations in his temple ere the battle is fought.”</i><br />— Sun Tzu, <i>The Art of War</i>, Chapter 1
 </div>
+
 
 
 
