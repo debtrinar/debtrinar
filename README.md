@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=19&pause=1200&color=315A7D&center=true&vCenter=true&width=620&lines=Computer+Science+Undergraduate;Exploring+AI%2C+Machine+Learning+%26+Data+Science;Full-Stack+Developer+in+Progress" alt="Computer science student exploring AI, machine learning, data science, and full-stack development" /></a>
 
+🏆 **2nd Prize — Xebia Hackathon**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshini-bhattacharjee-20039b297)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/debangshini/)
 ![Profile views](https://komarev.com/ghpvc/?username=debtrinar&style=flat-square&color=315a7d&label=PROFILE+VIEWS)
@@ -54,6 +56,7 @@ I’m pursuing a B.Tech in Computer Science at Sharda University. I’m interest
 
 `Git` · `GitHub` · `VS Code` · `Supabase` · `DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Testing`
 
+
 ## How my interests connect
 
 ```mermaid
@@ -75,15 +78,15 @@ flowchart LR
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debtrinar&bg_color=ffffff&color=315a7d&line=4b8b8b&point=315a7d&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debtrinar&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile achievements" />
+  <img src="https://streak-stats.demolab.com?user=debtrinar&hide_border=true&theme=default" alt="GitHub contribution streak" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Curious by nature. Building with purpose. Learning every day.</i>
+  <i>“The general who wins a battle makes many calculations in his temple ere the battle is fought.”</i><br />— Sun Tzu, <i>The Art of War</i>, Chapter 1
 </div>
+
+
+
+
