@@ -1,18 +1,17 @@
 <div align="center">
 
-# Debangshini Bhattacharjee
+<a href="https://capsule-render.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=230&section=header&text=Debangshini%20Bhattacharjee&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20%26%20Data%20Science&descAlignY=57&descSize=17" alt="Portfolio banner for Debangshini Bhattacharjee" width="100%" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=19&pause=1200&color=315A7D&center=true&vCenter=true&width=620&lines=Computer+Science+Undergraduate;Exploring+AI%2C+Machine+Learning+%26+Data+Science;Full-Stack+Developer+in+Progress" alt="Computer science student exploring AI, machine learning, data science, and full-stack development" /></a>
-
-🏆 **2nd Prize — Xebia Hackathon**
+[About](#about) &nbsp;·&nbsp; [Skills](#technical-toolkit) &nbsp;·&nbsp; [Recognition](#a-milestone-worth-celebrating) &nbsp;·&nbsp; [GitHub Activity](#github-at-a-glance)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debangshini-bhattacharjee-20039b297)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/debangshini/)
-![Profile views](https://komarev.com/ghpvc/?username=debtrinar&style=flat-square&color=315a7d&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=debtrinar&style=flat-square&color=0F766E&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+
 
 ## About
 
@@ -70,11 +69,25 @@ flowchart LR
     H[Full-Stack Development] --> G
 ```
 
+## A milestone worth celebrating
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/XEBIA_HACKATHON-2ND_PRIZE-7C3AED?style=for-the-badge&labelColor=1F2937" alt="Xebia Hackathon - Second Prize" />
+      <br /><br />
+      <strong>Second Prize · Xebia Hackathon</strong>
+      <br />
+      A proud milestone in my learning and building journey.
+    </td>
+  </tr>
+</table>
+
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=debtrinar&show_icons=true&hide_border=true&rank_icon=github&theme=default&cache_seconds=86400" alt="GitHub statistics for Debangshini" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debtrinar&layout=compact&hide_border=true&theme=default&cache_seconds=86400" alt="Most used languages on GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=debtrinar&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0F766E&text_color=334155&icon_color=0F766E&cache_seconds=86400" alt="GitHub statistics for Debangshini" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debtrinar&layout=compact&hide_border=true&theme=transparent&title_color=0F766E&text_color=334155&icon_color=0F766E&cache_seconds=86400" alt="Most used languages on GitHub" />
 </div>
 
 <div align="center">
@@ -83,10 +96,10 @@ flowchart LR
 
 ---
 
+
 <div align="center">
   <i>“The general who wins a battle makes many calculations in his temple ere the battle is fought.”</i><br />— Sun Tzu, <i>The Art of War</i>, Chapter 1
 </div>
 
-
-
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0F172A&height=110&section=footer)
 
